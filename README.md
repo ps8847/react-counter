@@ -29,11 +29,11 @@ An Basic Counter Application made using Reactjs
 
 | Feature             | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| Add 1               | OAuth with JWT for secure user login and registration        |
-| Subtract 1          | Reset password via email with reset link                     |
-| Add 2               | Update user profile details (email, name, password, picture) |
-| Subtract 2          | Add items to the cart and apply coupon codes                 |
-| Reset               | Logged-in users can review products                          |
+| Add 1               | Button to add 1 into the value                               |
+| Subtract 1          | Button to subtract 1 into the value                          |
+| Add 2               | Button to add 2 into the value                               |
+| Subtract 2          | Button to subtract 2 into the value                          |
+| Reset               | Button to reset he value to 0                                |
 
 
 ## Contributions
