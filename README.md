@@ -13,7 +13,7 @@ An Basic Counter Application made using Reactjs
 1.  Clone the repository:
     ```bash
     git clone https://github.com/ps8847/react-counter.git
-    cd Gentsshop
+    cd react-counter
     ```
 2.  Install dependencies:
     ```bash
